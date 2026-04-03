@@ -26,3 +26,10 @@ Lights_on = is_light_on
 print(type(person_info))
 print(len(first_name))
 print(len(last_name))
+
+num_one = 5
+num_two = 4
+diff = num_two - num_one
+variable_product = num_two * num_one
+variable_division = num_one / num_two
+variable_remainder = num_two / num_one == num_two // num_one or num_two % num_one
