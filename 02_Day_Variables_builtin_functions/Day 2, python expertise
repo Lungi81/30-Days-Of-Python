@@ -33,3 +33,12 @@ diff = num_two - num_one
 variable_product = num_two * num_one
 variable_division = num_one / num_two
 variable_remainder = num_two / num_one == num_two // num_one or num_two % num_one
+variable_exp = num_one ** num_two
+floor_diviswion = num_one ...
+
+insert maths, pythagorus
+are_of_circle = ...
+circum_of_circle = ...
+iii
+
+
