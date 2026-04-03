@@ -1,1 +1,28 @@
+"Day 2: 30 Days of python programming"
+#Variables
 
+first_name = "Lungelo" 
+last name = "Molaba"
+full_name = ({first_name}, {last_name})
+country = "South Africa"
+city = "Pretoria"
+age = "20"
+year = "2026"
+is_married = False
+is_true = True
+is_light_on = True
+
+person_info = {
+firstname: first_name
+lastname = last_name
+Country = country
+City = city
+Age = age
+Year = year
+Married = is_true
+Lights_on = is_light_on
+}
+
+print(type(person_info))
+print(len(first_name))
+print(len(last_name))
